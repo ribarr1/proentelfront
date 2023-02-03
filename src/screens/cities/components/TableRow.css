@@ -1,0 +1,13 @@
+.table-row {
+    background-color: lightgray;
+    border: 1px solid rgb(152, 189, 201);
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  .table-row:nth-child(odd) {
+    background-color: #f2f2f2;
+  }
+  .table-row:nth-child(even) {
+    background-color: #ffffff;
+  }
